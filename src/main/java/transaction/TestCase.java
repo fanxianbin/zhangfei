@@ -26,6 +26,7 @@ public class TestCase
 {
     public static void main(String[] args) throws Exception
     {
+        String nameString = null;
         DefaultMQProducer de = new DefaultMQProducer("conGroup");
         de.setNamesrvAddr("localhost:9876");
         de.start();
