@@ -6,7 +6,4 @@ xasx
 xasx
 insert into fanxb (user_name,user_code) values(#{user_name},#{user_code})
 相爱西安市新
-xasx xsaxasxsasxasxs
-xasx
-
-西安市新
+xasx xsaxasxsasxas
