@@ -9,3 +9,4 @@ insert into fanxb (user_name,user_code) values(#{user_name},#{user_code})
 xasx xsaxasxsasxas
 西安市新
 西安市新
+西安市新
