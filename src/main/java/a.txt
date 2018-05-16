@@ -3,12 +3,6 @@ today is good
 good weather is good
 today has good weather
 xasx
-xasx
 insert into fanxb (user_name,user_code) values(#{user_name},#{user_code})
 相爱西安市新
-xasx xsaxasxsasxas
-1232
-西安市新
-西安市新
-西安市新
-西安市西安
+xasx xsaxasxsasxasxs
