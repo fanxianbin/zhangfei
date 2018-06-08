@@ -1,10 +1,1 @@
-weather is good
-today is good
-good weather is good
-today has good weather
-xasx
-xasx
-insert into fanxb (user_name,user_code) values(#{user_name},#{user_code})
-ç›¸çˆ±è¥¿å®‰å¸‚æ–°
-xasx xsaxasxsasxasxs
-
+²âÊÔÒ»²¨
